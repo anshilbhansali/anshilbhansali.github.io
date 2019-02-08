@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # JSgames
 This repository contains 2 Javascript games:  
 1)Ball Eater (inpsired from Agar.io)  
